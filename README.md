@@ -1,4 +1,4 @@
-  <p align="right" style="font-style=orbitron;"> PROFILE VISITS</p> <img align="right" src="https://profile-counter.glitch.me/Alto-b/count.svg">
+  <p align="right" style="font-style=orbitron;"> PROFILE VISITS</p> <img align="right" src="https://profile-counter.glitch.me/4khil-raj/count.svg">
     <br>
 
   <div align="center" >
@@ -8,7 +8,7 @@
   ![banner](https://github.com/Alto-b/Alto-b/assets/89630614/f6d17e4e-8b00-4180-ae20-6485c5495f9b)
 
 <br>
-<img src="https://ivanluna.dev/images/banner.png"><br><br>
+<!-- <img src="https://ivanluna.dev/images/banner.png"><br><br> -->
 <!--  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br> -->
  
 <br>
