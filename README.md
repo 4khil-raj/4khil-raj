@@ -1,9 +1,5 @@
 <!-- Typing Intro -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&background=00000000&center=true&vCenter=true&width=500&lines=Hi+👋+I'm+Akhil+Raj;Flutter+Developer;Creative+Technologist;Freelancer+%F0%9F%92%BC" alt="Typing SVG" />
-  </a>
-</div>
+
 
 <!-- Banner -->
 <div align="center">
